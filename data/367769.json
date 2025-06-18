@@ -1,0 +1,4235 @@
+{
+  "statusCode": 0,
+  "data": {
+    "statusMessage": "done successfully",
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.TextBoxV2",
+            "text": "Lucky Restaurant",
+            "headerStyling": {
+              "textColor": "text_Highest_Emphasis",
+              "textVariant": "header_H3_Black"
+            }
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.RestaurantBlTab",
+            "tabs": [
+              {
+                "id": "Order Online",
+                "title": "Order Online"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "367769",
+              "name": "Lucky Restaurant",
+              "city": "Hyderabad",
+              "slugs": {
+                "restaurant": "lucky-restaurant-banjara-hills-banjara-hills",
+                "city": "hyderabad"
+              },
+              "uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+              "cloudinaryImageId": "qems028i3da5rxf81rbp",
+              "locality": "Banjara Hills",
+              "areaName": "Banjara Hills",
+              "costForTwo": "30000",
+              "costForTwoMessage": "₹300 for two",
+              "cuisines": [
+                "Biryani",
+                "Tandoor"
+              ],
+              "avgRating": 4,
+              "feeDetails": {
+                "restaurantId": "367769",
+                "fees": [
+                  {
+
+                  }
+                ]
+              },
+              "parentId": "535180",
+              "avgRatingString": "4.0",
+              "totalRatingsString": "84K+ ratings",
+              "sla": {
+                "restaurantId": "367769",
+                "deliveryTime": 20,
+                "minDeliveryTime": 20,
+                "maxDeliveryTime": 25,
+                "lastMileTravel": 3,
+                "serviceability": "SERVICEABLE",
+                "stressFactor": 1,
+                "rainMode": "RAIN_MODE_NONE",
+                "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+                "zoneId": 25,
+                "slaString": "20-25 MINS",
+                "lastMileTravelString": "3.0 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "nextCloseTime": "2025-06-17 23:59:00",
+                "visibility": true,
+                "opened": true,
+                "restaurantClosedMeta": {
+
+                }
+              },
+              "aggregatedDiscountInfo": {
+                "header": "40% off",
+                "shortDescriptionList": [
+                  {
+                    "meta": "40% off | Use TRYNEW",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "descriptionList": [
+                  {
+                    "meta": "40% off up to ₹80 | Use code TRYNEW",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "20% off upto ₹125|Use AMEXCORP Above ₹499",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "visible": true
+              },
+              "badges": {
+
+              },
+              "slugString": "lucky-restaurant-banjara-hills-banjara-hills",
+              "multiOutlet": true,
+              "isOpen": true,
+              "labels": [
+                {
+                  "title": "Timings",
+                  "message": "null"
+                },
+                {
+                  "title": "Address",
+                  "message": "Dana Chambers, Saifabad Rd, Sham Nagar Colony, Chintal, Hyderabad, Telangana 500004"
+                },
+                {
+                  "title": "Cuisines",
+                  "message": "Biryani,Tandoor"
+                }
+              ],
+              "logo": "Brand logo/LuckyResto1",
+              "totalRatings": 84000,
+              "aggregatedDiscountInfoV2": {
+                "header": "40% off",
+                "shortDescriptionList": [
+                  {
+                    "meta": "40% off | Use TRYNEW",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "descriptionList": [
+                  {
+                    "meta": "40% off up to ₹80 | Use code TRYNEW",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "20% off upto ₹125|Use AMEXCORP Above ₹499",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "couponDetailsCta": "View coupon details"
+              },
+              "type": "F",
+              "headerBanner": {
+                "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/367769"
+              },
+              "generalPurposeInfoListV2": [
+                {
+                  "cta": {
+                    "info": {
+                      "recordings": {
+
+                      }
+                    },
+                    "linkCta": {
+
+                    }
+                  }
+                }
+              ],
+              "ratingSlab": "RATING_SLAB_4",
+              "orderabilityCommunication": {
+                "title": {
+
+                },
+                "subTitle": {
+
+                },
+                "message": {
+
+                },
+                "customIcon": {
+
+                },
+                "commsStyling": {
+
+                }
+              },
+              "hasBestsellerItems": true,
+              "cartOrderabilityNudgeBanner": {
+                "parameters": {
+
+                },
+                "presentation": {
+
+                }
+              },
+              "latLong": "17.4039428,78.45595479",
+              "backgroundImageOverlayInfo": {
+
+              },
+              "featuredSectionInfo": {
+
+              }
+            },
+            "analytics": {
+
+            }
+          },
+          "relevance": {
+            "type": "RELEVANCE_TYPE_CHECK_ORDERABILITY_ON_ITEM_ADD",
+            "sectionId": "POP_UP_CROUTON_MENU"
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+            "layout": {
+              "rows": 1,
+              "columns": 5,
+              "horizontalScrollEnabled": true,
+              "itemSpacing": 12,
+              "lineSpacing": 10,
+              "widgetPadding": {
+
+              },
+              "containerStyle": {
+                "containerPadding": {
+                  "left": 10,
+                  "right": 10,
+                  "bottom": 16
+                }
+              },
+              "scrollBar": {
+
+              }
+            },
+            "id": "offerCollectionWidget_UX4",
+            "gridElements": {
+              "infoWithStyle": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.OfferInfoWithStyle",
+                "offers": [
+                  {
+                    "info": {
+                      "header": "40% OFF UPTO ₹80",
+                      "offerTagColor": "#E46D47",
+                      "offerIds": [
+                        "fc16fa4f-bf86-4ad7-8c9f-a6b4024053e4"
+                      ],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE TRYNEW",
+                      "description": "ABOVE ₹199",
+                      "offerType": "offers",
+                      "restId": "367769",
+                      "offerLogo": "offers/generic",
+                      "descriptionTextColor": "#7302060C",
+                      "primaryDescription": "USE TRYNEW"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "20% OFF UPTO ₹125",
+                      "offerTagColor": "#E46D47",
+                      "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2025/5/27/47401195-2e95-4f53-bb7c-367fa0316dc7_AMEXMenuLogo.png",
+                      "offerIds": [
+                        "074600c5-3563-4463-ab24-aa22c3ea5a8d"
+                      ],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE AMEXCORP",
+                      "description": "ABOVE ₹499",
+                      "offerType": "offers",
+                      "restId": "367769",
+                      "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2025/5/27/47401195-2e95-4f53-bb7c-367fa0316dc7_AMEXMenuLogo.png",
+                      "descriptionTextColor": "#7302060C",
+                      "primaryDescription": "USE AMEXCORP"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "FLAT ₹30 OFF",
+                      "offerTagColor": "#E46D47",
+                      "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2025/6/2/cbcaf732-4dd1-40d7-a756-e78def3542f1_OneCardMenuVisibilityNewLogo.png",
+                      "offerIds": [
+                        "ad7689f2-18cb-455e-8595-90af279f4d2a"
+                      ],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE ONECARD",
+                      "description": "ABOVE ₹299",
+                      "offerType": "offers",
+                      "restId": "367769",
+                      "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2025/6/2/cbcaf732-4dd1-40d7-a756-e78def3542f1_OneCardMenuVisibilityNewLogo.png",
+                      "descriptionTextColor": "#7302060C",
+                      "primaryDescription": "USE ONECARD"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "10% OFF UPTO ₹100",
+                      "offerTagColor": "#E46D47",
+                      "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2025/6/1/83e0da30-347b-4cb9-8d07-eb20c4034bc4_RBLMenuVisibilityLogo.png",
+                      "offerIds": [
+                        "ce7ceb20-d4f5-4081-9bb1-adc02b3dda2b"
+                      ],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE RBLCC100",
+                      "description": "ABOVE ₹599",
+                      "offerType": "offers",
+                      "restId": "367769",
+                      "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2025/6/1/83e0da30-347b-4cb9-8d07-eb20c4034bc4_RBLMenuVisibilityLogo.png",
+                      "descriptionTextColor": "#7302060C",
+                      "primaryDescription": "USE RBLCC100"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "FLAT ₹75 OFF",
+                      "offerTagColor": "#E46D47",
+                      "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2025/6/1/93c7949f-6662-4020-973b-4eaecce30b1a_YESBankMenuLogoNew1.png",
+                      "offerIds": [
+                        "8db82ccc-5a33-455b-9259-f8ddc4762063"
+                      ],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "NO CODE REQUIRED",
+                      "description": "ABOVE ₹499",
+                      "offerType": "offers",
+                      "restId": "367769",
+                      "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2025/6/1/93c7949f-6662-4020-973b-4eaecce30b1a_YESBankMenuLogoNew1.png",
+                      "descriptionTextColor": "#7302060C",
+                      "primaryDescription": "NO CODE REQUIRED"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  }
+                ],
+                "habitMilestoneInfo": {
+                  "callout": {
+
+                  }
+                },
+                "loyaltyDiscoverPresentationInfo": {
+                  "logoCtx": {
+
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuVegFilterAndBadge",
+                      "badges": {
+
+                      },
+                      "vegOnlyDetails": {
+                        "imageId": "AutoVegOnly_qkjowj",
+                        "title": "Showing only vegetarian options.",
+                        "description": "Tap on the VEG ONLY button to turn off the setting"
+                      },
+                      "topRatedFilter": {
+                        "attributes": {
+                          "displayText": "Ratings 4.0+"
+                        }
+                      },
+                      "kidsCategoryFilter": {
+                        "attributes": {
+                          "displayText": "Kids Favourites",
+                          "tooltip": {
+                            "enabled": true,
+                            "displayText": "Kids Favourites Filter applied. Remove this filter to see the full Menu."
+                          }
+                        }
+                      },
+                      "vegFilter": {
+                        "attributes": {
+                          "displayText": "VEG"
+                        }
+                      },
+                      "nonvegFilter": {
+                        "attributes": {
+                          "displayText": "NONVEG"
+                        }
+                      }
+                    },
+                    "relevance": {
+                      "type": "RELEVANCE_TYPE_ON_MENU_FILTER_TOGGLED",
+                      "sectionId": "MENU_FILTER_TOGGLE"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuCarousel",
+                      "title": "Top Picks",
+                      "carousel": [
+                        {
+                          "type": "TopCarousel",
+                          "subtype": "image",
+                          "bannerId": "5288236",
+                          "creativeId": "TopPicks2024/69865786B.png",
+                          "title": "Single Chicken Biryani",
+                          "description": " ",
+                          "fontColor": "#FFFFFF",
+                          "dish": {
+                            "info": {
+                              "id": "69865786",
+                              "name": "Single Chicken Biryani",
+                              "category": "Biryani",
+                              "description": "Biryani served with 1 chicken piece (chest or leg piece(As per the availability)), served along with mirch-ka-salan and raita.",
+                              "imageId": "qvui3cq6a8irmludkxxh",
+                              "inStock": 1,
+                              "price": 17000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "isBestseller": true
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "type": "TopCarousel",
+                          "subtype": "image",
+                          "bannerId": "5290205",
+                          "creativeId": "TopPicks2024/67832348B.png",
+                          "title": "Chicken Biryani",
+                          "description": " ",
+                          "fontColor": "#FFFFFF",
+                          "dish": {
+                            "info": {
+                              "id": "67832348",
+                              "name": "Chicken Biryani",
+                              "category": "Biryani",
+                              "description": "Biryani served with 1 chicken piece (chest or leg piece(as per the availability)), served along with mirch-ka-salan and raita.\nserves-2",
+                              "imageId": "iorftwkwjjd0mawvmgh1",
+                              "inStock": 1,
+                              "price": 26000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "isBestseller": true
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Recommended",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832348",
+                              "name": "Chicken Biryani",
+                              "category": "Biryani",
+                              "description": "Biryani served with 1 chicken piece (chest or leg piece(as per the availability)), served along with mirch-ka-salan and raita.\nserves-2",
+                              "imageId": "iorftwkwjjd0mawvmgh1",
+                              "inStock": 1,
+                              "price": 26000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "8912 ratings",
+                                  "ratingCountV2": "8.9K+"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "69865786",
+                              "name": "Single Chicken Biryani",
+                              "category": "Biryani",
+                              "description": "Biryani served with 1 chicken piece (chest or leg piece(As per the availability)), served along with mirch-ka-salan and raita.",
+                              "imageId": "qvui3cq6a8irmludkxxh",
+                              "inStock": 1,
+                              "price": 17000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.9",
+                                  "ratingCount": "3162 ratings",
+                                  "ratingCountV2": "3.2K+"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#D9EFEC",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_medium",
+                                  "ratingTextColor": "rating_medium",
+                                  "ratingCountTextColor": "rating_medium",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832352",
+                              "name": "Chicken Biryani Family Pack",
+                              "category": "Biryani",
+                              "description": "Comes with Served with mirchi-ka-salan and raita | Biryani served with 2 chicken pieces (chest and leg), Served along with egg (2)",
+                              "imageId": "wq0pedu86jv2p22d8ver",
+                              "inStock": 1,
+                              "price": 56000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG",
+                                "accompaniments": "Served with Served with mirchi-ka-salan and raita"
+                              },
+                              "ribbon": {
+
+                              },
+                              "showImage": true,
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "1134 ratings",
+                                  "ratingCountV2": "1.1K+"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832354",
+                              "name": "Chicken Biryani Jumbo Pack",
+                              "category": "Biryani",
+                              "description": "Comes with Served with mirchi-ka-salan and raita | Biryani served with 4 chicken pieces (2 chest and 2 leg), served along with egg (2)",
+                              "imageId": "xsqzxiyan0xrffwjlhwh",
+                              "inStock": 1,
+                              "price": 83000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG",
+                                "accompaniments": "Served with Served with mirchi-ka-salan and raita"
+                              },
+                              "ribbon": {
+
+                              },
+                              "showImage": true,
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "254 ratings",
+                                  "ratingCountV2": "254"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832350",
+                              "name": "Spl Chicken Biryani",
+                              "category": "Biryani",
+                              "description": "Biryani served with 1 chicken piece (chest or leg(As per the availability)), 4 pieces of chicken 65, 1 boiled egg , served along with mirch-ka-salan and raita.",
+                              "imageId": "nbbocjmevheisue3bmwj",
+                              "inStock": 1,
+                              "price": 31000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "showImage": true,
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "4211 ratings",
+                                  "ratingCountV2": "4.2K+"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "110414161",
+                              "name": "Single Mutton Biryani ",
+                              "category": "Biryani",
+                              "imageId": "de6fwnfquheuubgauem4",
+                              "inStock": 1,
+                              "price": 18000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "showImage": true,
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.9",
+                                  "ratingCount": "1089 ratings",
+                                  "ratingCountV2": "1.1K+"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#D9EFEC",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_medium",
+                                  "ratingTextColor": "rating_medium",
+                                  "ratingCountTextColor": "rating_medium",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832333",
+                              "name": "Veg Biryani Family Pack",
+                              "category": "Biryani",
+                              "imageId": "kpjz4gqaracibg2rbsly",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 43000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "showImage": true,
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "92 ratings",
+                                  "ratingCountV2": "92"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832335",
+                              "name": "Veg Biryani Jumbo Pack",
+                              "category": "Biryani",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/1/17/bb146d50-5d86-4c67-b3c1-faa56b9dc04e_95b154a5-e78f-476b-8325-45a075d195f7.JPG",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 65000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "showImage": true,
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832365",
+                              "name": "Mutton Dob Ghost Biryani",
+                              "category": "Biryani",
+                              "description": "Delicious biryani with 15 mutton pieces (7 boneless, 8 with bone) served along with mirchi-ka-salan and raita",
+                              "imageId": "jaai5abyezjxjcxlxc7f",
+                              "inStock": 1,
+                              "price": 46000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "showImage": true,
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.8",
+                                  "ratingCount": "5 ratings",
+                                  "ratingCountV2": "5"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832368",
+                              "name": "Mutton Biryani Jumbo Pack",
+                              "category": "Biryani",
+                              "description": "Delicious biryani with 24 mutton pieces (12 boneless, 12 with bone) served along with mirchi-ka-salan and raita",
+                              "imageId": "r5arbiuczcyj35crwtol",
+                              "inStock": 1,
+                              "price": 87000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "showImage": true,
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.7",
+                                  "ratingCount": "112 ratings",
+                                  "ratingCountV2": "112"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#D9EFEC",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_medium",
+                                  "ratingTextColor": "rating_medium",
+                                  "ratingCountTextColor": "rating_medium",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832397",
+                              "name": "Rumali Roti",
+                              "category": "Tandoori Breads",
+                              "description": "Serves 1 | A thin flatbread",
+                              "imageId": "n9imschjjv6bwparmyfj",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 1500,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {
+
+                              },
+                              "showImage": true,
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "10690 ratings",
+                                  "ratingCountV2": "10.7K+"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "69823307",
+                              "name": "Double Ka Meetha",
+                              "category": "Desserts",
+                              "description": "A lip-smacking dessert from Hyderabad made by soaking crispy, fried bread slices in hot milk flavoured with saffron, cardamom and other spices.",
+                              "imageId": "jkrqtxyajw0m1pdi7doo",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 8000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "showImage": true,
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.9",
+                                  "ratingCount": "468 ratings",
+                                  "ratingCountV2": "468"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#D9EFEC",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_medium",
+                                  "ratingTextColor": "rating_medium",
+                                  "ratingCountTextColor": "rating_medium",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ],
+                      "type": "CATEGORY_TYPE_RECOMMENDED",
+                      "subtitleSuffix": {
+
+                      },
+                      "categoryId": "-1"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Biryani",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832348",
+                              "name": "Chicken Biryani",
+                              "category": "Biryani",
+                              "description": "Biryani served with 1 chicken piece (chest or leg piece(as per the availability)), served along with mirch-ka-salan and raita.\nserves-2",
+                              "imageId": "iorftwkwjjd0mawvmgh1",
+                              "inStock": 1,
+                              "price": 26000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "8912 ratings",
+                                  "ratingCountV2": "8.9K+"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "69865786",
+                              "name": "Single Chicken Biryani",
+                              "category": "Biryani",
+                              "description": "Biryani served with 1 chicken piece (chest or leg piece(As per the availability)), served along with mirch-ka-salan and raita.",
+                              "imageId": "qvui3cq6a8irmludkxxh",
+                              "inStock": 1,
+                              "price": 17000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.9",
+                                  "ratingCount": "3162 ratings",
+                                  "ratingCountV2": "3.2K+"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#D9EFEC",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_medium",
+                                  "ratingTextColor": "rating_medium",
+                                  "ratingCountTextColor": "rating_medium",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832352",
+                              "name": "Chicken Biryani Family Pack",
+                              "category": "Biryani",
+                              "description": "Comes with Served with mirchi-ka-salan and raita | Biryani served with 2 chicken pieces (chest and leg), Served along with egg (2)",
+                              "imageId": "wq0pedu86jv2p22d8ver",
+                              "inStock": 1,
+                              "price": 56000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG",
+                                "accompaniments": "Served with Served with mirchi-ka-salan and raita"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "1134 ratings",
+                                  "ratingCountV2": "1.1K+"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832354",
+                              "name": "Chicken Biryani Jumbo Pack",
+                              "category": "Biryani",
+                              "description": "Comes with Served with mirchi-ka-salan and raita | Biryani served with 4 chicken pieces (2 chest and 2 leg), served along with egg (2)",
+                              "imageId": "xsqzxiyan0xrffwjlhwh",
+                              "inStock": 1,
+                              "price": 83000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG",
+                                "accompaniments": "Served with Served with mirchi-ka-salan and raita"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "254 ratings",
+                                  "ratingCountV2": "254"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832350",
+                              "name": "Spl Chicken Biryani",
+                              "category": "Biryani",
+                              "description": "Biryani served with 1 chicken piece (chest or leg(As per the availability)), 4 pieces of chicken 65, 1 boiled egg , served along with mirch-ka-salan and raita.",
+                              "imageId": "nbbocjmevheisue3bmwj",
+                              "inStock": 1,
+                              "price": 31000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "4211 ratings",
+                                  "ratingCountV2": "4.2K+"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832361",
+                              "name": "Mutton Biryani",
+                              "category": "Biryani",
+                              "description": "Delicious biryani with 8 mutton pieces (4 boneless, 4 with bone) served with mirchi-ka-salan and raita.",
+                              "imageId": "jv7m6a10uvfszlasl4sl",
+                              "inStock": 1,
+                              "price": 28000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "4081 ratings",
+                                  "ratingCountV2": "4.1K+"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832366",
+                              "name": "Mutton Biryani Family Pack",
+                              "category": "Biryani",
+                              "description": "Delicious biryani with 16 mutton pieces (7 boneless, 8 with bone) served along with mirchi-ka-salan and raita",
+                              "imageId": "dxtm6s25dewfqnao3vaz",
+                              "inStock": 1,
+                              "price": 62000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "467 ratings",
+                                  "ratingCountV2": "467"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "110414161",
+                              "name": "Single Mutton Biryani ",
+                              "category": "Biryani",
+                              "imageId": "de6fwnfquheuubgauem4",
+                              "inStock": 1,
+                              "price": 18000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.9",
+                                  "ratingCount": "1089 ratings",
+                                  "ratingCountV2": "1.1K+"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#D9EFEC",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_medium",
+                                  "ratingTextColor": "rating_medium",
+                                  "ratingCountTextColor": "rating_medium",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832363",
+                              "name": "Spl Mutton Biryani",
+                              "category": "Biryani",
+                              "description": "Delicious biryani with 8 mutton pieces (4 boneless, 4 with bone), 4 pieces of chicken 65, 1 boiled egg, served along with mirchi-ka-salan and raita.",
+                              "imageId": "pkqvusf4rqfemnjfgmw7",
+                              "inStock": 1,
+                              "price": 32000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.9",
+                                  "ratingCount": "2622 ratings",
+                                  "ratingCountV2": "2.6K+"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#D9EFEC",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_medium",
+                                  "ratingTextColor": "rating_medium",
+                                  "ratingCountTextColor": "rating_medium",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832333",
+                              "name": "Veg Biryani Family Pack",
+                              "category": "Biryani",
+                              "imageId": "kpjz4gqaracibg2rbsly",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 43000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "92 ratings",
+                                  "ratingCountV2": "92"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832335",
+                              "name": "Veg Biryani Jumbo Pack",
+                              "category": "Biryani",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/1/17/bb146d50-5d86-4c67-b3c1-faa56b9dc04e_95b154a5-e78f-476b-8325-45a075d195f7.JPG",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 65000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832341",
+                              "name": "Egg Biryani",
+                              "category": "Biryani",
+                              "description": "Richly flavored aromatic rice layered with flavourfull masala in a delicate blend, topped with Boiled eggs.",
+                              "imageId": "uvconpb7yjuqkg3yxgzj",
+                              "inStock": 1,
+                              "price": 20000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "EGG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "624 ratings",
+                                  "ratingCountV2": "624"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832331",
+                              "name": "Veg Biryani (800 gms)",
+                              "category": "Biryani",
+                              "description": "Richly flavored aromatic rice layered with marinated mixed vegetable pieces in a delicate blend of spices.",
+                              "imageId": "uepzcxlwa4lcsssjfvzf",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 20000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.8",
+                                  "ratingCount": "984 ratings",
+                                  "ratingCountV2": "984"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#D9EFEC",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_medium",
+                                  "ratingTextColor": "rating_medium",
+                                  "ratingCountTextColor": "rating_medium",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832365",
+                              "name": "Mutton Dob Ghost Biryani",
+                              "category": "Biryani",
+                              "description": "Delicious biryani with 15 mutton pieces (7 boneless, 8 with bone) served along with mirchi-ka-salan and raita",
+                              "imageId": "jaai5abyezjxjcxlxc7f",
+                              "inStock": 1,
+                              "price": 46000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.8",
+                                  "ratingCount": "5 ratings",
+                                  "ratingCountV2": "5"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832368",
+                              "name": "Mutton Biryani Jumbo Pack",
+                              "category": "Biryani",
+                              "description": "Delicious biryani with 24 mutton pieces (12 boneless, 12 with bone) served along with mirchi-ka-salan and raita",
+                              "imageId": "r5arbiuczcyj35crwtol",
+                              "inStock": 1,
+                              "price": 87000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.7",
+                                  "ratingCount": "112 ratings",
+                                  "ratingCountV2": "112"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#D9EFEC",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_medium",
+                                  "ratingTextColor": "rating_medium",
+                                  "ratingCountTextColor": "rating_medium",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "150212337",
+                              "name": "Mini Veg Biryani",
+                              "category": "Biryani",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/1/18/167bd0d2-d7ed-4760-9d74-6207ca2f745f_cf4d4058-2bde-4f92-bd1a-07313b2a107a.JPG",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 13000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "47721944",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "Small",
+                                        "default": 1,
+                                        "id": "150904234",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Medium",
+                                        "price": 20000,
+                                        "id": "150904235",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Large",
+                                        "id": "150904236",
+                                        "inStock": 1,
+                                        "isVeg": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "34 ratings",
+                                  "ratingCountV2": "34"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ],
+                      "subtitleSuffix": {
+
+                      },
+                      "image": "iorftwkwjjd0mawvmgh1",
+                      "categoryId": "13952629"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Tandoori Breads",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832397",
+                              "name": "Rumali Roti",
+                              "category": "Tandoori Breads",
+                              "description": "Serves 1 | A thin flatbread",
+                              "imageId": "n9imschjjv6bwparmyfj",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 1500,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG",
+                                "portionSize": "Serves 1"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "10690 ratings",
+                                  "ratingCountV2": "10.7K+"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "81549626",
+                              "name": "Romali Roti Pack Of 5",
+                              "category": "Tandoori Breads",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 7500,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "643 ratings",
+                                  "ratingCountV2": "643"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ],
+                      "subtitleSuffix": {
+
+                      },
+                      "image": "n9imschjjv6bwparmyfj",
+                      "categoryId": "13952624"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Desserts",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "69823307",
+                              "name": "Double Ka Meetha",
+                              "category": "Desserts",
+                              "description": "A lip-smacking dessert from Hyderabad made by soaking crispy, fried bread slices in hot milk flavoured with saffron, cardamom and other spices.",
+                              "imageId": "jkrqtxyajw0m1pdi7doo",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 8000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.9",
+                                  "ratingCount": "468 ratings",
+                                  "ratingCountV2": "468"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#D9EFEC",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_medium",
+                                  "ratingTextColor": "rating_medium",
+                                  "ratingCountTextColor": "rating_medium",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "69823475",
+                              "name": "Kaddu Ki Kheer",
+                              "category": "Desserts",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 8000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "371 ratings",
+                                  "ratingCountV2": "371"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "69827726",
+                              "name": "Qurbani Ka Meetha",
+                              "category": "Desserts",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 8000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "231 ratings",
+                                  "ratingCountV2": "231"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "105805813",
+                              "name": "Gulab Jamun (4 Pcs)",
+                              "category": "Desserts",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 8000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "275 ratings",
+                                  "ratingCountV2": "275"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ],
+                      "subtitleSuffix": {
+
+                      },
+                      "image": "jkrqtxyajw0m1pdi7doo",
+                      "categoryId": "14534349"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Rice & Noodles",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832415",
+                              "name": "Zeera Rice",
+                              "category": "Rice & Noodles",
+                              "isVeg": 1,
+                              "price": 14000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "nextAvailableAtMessage": "Next available at 11 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "321 ratings",
+                                  "ratingCountV2": "321"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832419",
+                              "name": "Veg Fried Rice",
+                              "category": "Rice & Noodles",
+                              "description": "Long grained rice stir fried together with mixed vegetables and tossed with sauce.",
+                              "imageId": "m5g3u12e8vrpj5zv1c72",
+                              "isVeg": 1,
+                              "price": 15000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "nextAvailableAtMessage": "Next available at 11 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "442 ratings",
+                                  "ratingCountV2": "442"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832421",
+                              "name": "Schezwan Veg Fried Rice",
+                              "category": "Rice & Noodles",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/1/18/c9109a68-35fe-4eff-a39e-d08f8ed60a01_6b01f16b-5a37-4c07-ad6a-379a77a24673.JPG",
+                              "isVeg": 1,
+                              "price": 16000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "nextAvailableAtMessage": "Next available at 11 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "12 ratings",
+                                  "ratingCountV2": "12"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832423",
+                              "name": "Egg Fried Rice",
+                              "category": "Rice & Noodles",
+                              "description": "Flavorful fried rice tossed with scrambbled egg, assorted fresh veggies and flavorful spices served hot and fresh.",
+                              "imageId": "fx2iza8ob9rpnsix55r8",
+                              "price": 17000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "nextAvailableAtMessage": "Next available at 11 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "EGG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "490 ratings",
+                                  "ratingCountV2": "490"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832425",
+                              "name": "Chicken Fried Rice",
+                              "category": "Rice & Noodles",
+                              "description": "Flavorful fried rice tossed with succulent chicken chunks , assorted fresh veggies and flavorful spices served hot and fresh.",
+                              "imageId": "dho4a5wrpzexktqimfrd",
+                              "price": 18000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "nextAvailableAtMessage": "Next available at 11 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "4721 ratings",
+                                  "ratingCountV2": "4.7K+"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832427",
+                              "name": "Prawns Fried Rice",
+                              "category": "Rice & Noodles",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/1/17/ca140bad-b6eb-4d66-ab82-0bf87628f797_dec7c147-e683-4cf4-babe-bd86576b0a4c.JPG",
+                              "price": 19000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "nextAvailableAtMessage": "Next available at 11 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.7",
+                                  "ratingCount": "14 ratings",
+                                  "ratingCountV2": "14"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#D9EFEC",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_medium",
+                                  "ratingTextColor": "rating_medium",
+                                  "ratingCountTextColor": "rating_medium",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832429",
+                              "name": "Schezwan Chicken Fried Rice",
+                              "category": "Rice & Noodles",
+                              "description": "Fluffy rice sauteed with diced vegetables and choice of meat",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/1/17/00687a4a-8bb9-49a0-8df7-d4f6c5fa717c_9f46b61d-4afb-476e-bb05-b39cd6b8fca7.JPG",
+                              "price": 19000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "nextAvailableAtMessage": "Next available at 11 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "1089 ratings",
+                                  "ratingCountV2": "1.1K+"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832432",
+                              "name": "Veg Soft Noodles",
+                              "category": "Rice & Noodles",
+                              "imageId": "7ebd07c4b9af0ebdae18886e6a7edc18",
+                              "isVeg": 1,
+                              "price": 16000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "nextAvailableAtMessage": "Next available at 11 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "261 ratings",
+                                  "ratingCountV2": "261"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832433",
+                              "name": "Egg Soft Noodles",
+                              "category": "Rice & Noodles",
+                              "imageId": "yucicbaouckomdhvmh2e",
+                              "price": 17000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "nextAvailableAtMessage": "Next available at 11 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "EGG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "16 ratings",
+                                  "ratingCountV2": "16"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832434",
+                              "name": "Chicken Soft Noodles",
+                              "category": "Rice & Noodles",
+                              "description": "A delicious preparation with soft noodles tossed with fresh chicken, assorted vegetables in a simple and tasty dressing.",
+                              "imageId": "yiiwsmzu5sat19cos4t1",
+                              "price": 18000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "nextAvailableAtMessage": "Next available at 11 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "3030 ratings",
+                                  "ratingCountV2": "3.0K+"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832306",
+                              "name": "Prawns Soft Noodles",
+                              "category": "Rice & Noodles",
+                              "price": 18000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "nextAvailableAtMessage": "Next available at 11 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "231 ratings",
+                                  "ratingCountV2": "231"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832309",
+                              "name": "Schezwan Chicken Noodles",
+                              "category": "Rice & Noodles",
+                              "imageId": "fhrmun6yqkoscbob1tmy",
+                              "price": 19000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "nextAvailableAtMessage": "Next available at 11 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.6",
+                                  "ratingCount": "1036 ratings",
+                                  "ratingCountV2": "1.0K+"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#D9EFEC",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_medium",
+                                  "ratingTextColor": "rating_medium",
+                                  "ratingCountTextColor": "rating_medium",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832431",
+                              "name": "Lucky Spl Chicken Fried Rice",
+                              "category": "Rice & Noodles",
+                              "description": "| Chef's Special  |",
+                              "imageId": "xvuzzlge6fziz0frmqly",
+                              "price": 21000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "nextAvailableAtMessage": "Next available at 11 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.9",
+                                  "ratingCount": "2097 ratings",
+                                  "ratingCountV2": "2.1K+"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#D9EFEC",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_medium",
+                                  "ratingTextColor": "rating_medium",
+                                  "ratingCountTextColor": "rating_medium",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ],
+                      "subtitleSuffix": {
+
+                      },
+                      "image": "m5g3u12e8vrpj5zv1c72",
+                      "categoryId": "13952625"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+                      "title": "Chinese Starters",
+                      "categories": [
+                        {
+                          "title": "Non Veg",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "67832342",
+                                  "name": "Chicken 65",
+                                  "category": "Chinese Starters",
+                                  "description": "Succulent boneless chicken chunks dipped in a seasoned batter and fried to golden perfection.",
+                                  "imageId": "yrihvctlrekr6njztlus",
+                                  "price": 22000,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "nextAvailableAtMessage": "Next available at 11 am, tomorrow",
+                                  "itemAttribute": {
+                                    "vegClassifier": "NONVEG"
+                                  },
+                                  "ribbon": {
+                                    "text": "Bestseller",
+                                    "textColor": "#ffffff",
+                                    "topBackgroundColor": "#d53d4c",
+                                    "bottomBackgroundColor": "#b02331"
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "isBestseller": true,
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "3.9",
+                                      "ratingCount": "9660 ratings",
+                                      "ratingCountV2": "9.7K+"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                      "bgGradient": {
+                                        "colours": [
+                                          "#D9EFEC",
+                                          "#FFFFFF"
+                                        ],
+                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                      },
+                                      "ratingIconColor": "rating_medium",
+                                      "ratingTextColor": "rating_medium",
+                                      "ratingCountTextColor": "rating_medium",
+                                      "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                      "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                  }
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "67832345",
+                                  "name": "Chicken Manchuria",
+                                  "category": "Chinese Starters",
+                                  "description": "Deep-fried, crispy boneless chicken chunks tossed in a thick and spicy Manchurian sauce.",
+                                  "imageId": "dnqwylfrr87bljhexfrc",
+                                  "price": 20000,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "nextAvailableAtMessage": "Next available at 11 am, tomorrow",
+                                  "itemAttribute": {
+                                    "vegClassifier": "NONVEG"
+                                  },
+                                  "ribbon": {
+                                    "text": "Bestseller",
+                                    "textColor": "#ffffff",
+                                    "topBackgroundColor": "#d53d4c",
+                                    "bottomBackgroundColor": "#b02331"
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "isBestseller": true,
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.1",
+                                      "ratingCount": "1408 ratings",
+                                      "ratingCountV2": "1.4K+"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                      "bgGradient": {
+                                        "colours": [
+                                          "#C8F9E5",
+                                          "#FFFFFF"
+                                        ],
+                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                      },
+                                      "ratingIconColor": "rating_very_good",
+                                      "ratingTextColor": "rating_very_good",
+                                      "ratingCountTextColor": "rating_very_good",
+                                      "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                      "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                  }
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "67832349",
+                                  "name": "Chilli Chicken",
+                                  "category": "Chinese Starters",
+                                  "description": "A mouthwatering dish prepared with chicken fried to golden brown and stir fried with assorted vegetables and spicy sauces.",
+                                  "imageId": "lggtltji5k5mg7qhkwcr",
+                                  "price": 22000,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "nextAvailableAtMessage": "Next available at 11 am, tomorrow",
+                                  "itemAttribute": {
+                                    "vegClassifier": "NONVEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.0",
+                                      "ratingCount": "2959 ratings",
+                                      "ratingCountV2": "3.0K+"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                      "bgGradient": {
+                                        "colours": [
+                                          "#C8F9E5",
+                                          "#FFFFFF"
+                                        ],
+                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                      },
+                                      "ratingIconColor": "rating_very_good",
+                                      "ratingTextColor": "rating_very_good",
+                                      "ratingCountTextColor": "rating_very_good",
+                                      "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                      "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                  }
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "67832353",
+                                  "name": "Ginger Chicken",
+                                  "category": "Chinese Starters",
+                                  "description": "Boneless Diced Chicken simmered in a blend of sauces , Garlic ,Ginger and spring onions.",
+                                  "imageId": "s8qdliuzcqhq3qmvxw79",
+                                  "price": 22000,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "nextAvailableAtMessage": "Next available at 11 am, tomorrow",
+                                  "itemAttribute": {
+                                    "vegClassifier": "NONVEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "4.1",
+                                      "ratingCount": "751 ratings",
+                                      "ratingCountV2": "751"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                      "bgGradient": {
+                                        "colours": [
+                                          "#C8F9E5",
+                                          "#FFFFFF"
+                                        ],
+                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                      },
+                                      "ratingIconColor": "rating_very_good",
+                                      "ratingTextColor": "rating_very_good",
+                                      "ratingCountTextColor": "rating_very_good",
+                                      "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                      "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                  }
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ],
+                          "subtitleSuffix": {
+
+                          },
+                          "categoryId": "13952637"
+                        },
+                        {
+                          "title": "Veg",
+                          "itemCards": [
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "67832326",
+                                  "name": "Paneer Manchuria",
+                                  "category": "Chinese Starters",
+                                  "isVeg": 1,
+                                  "price": 20000,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "nextAvailableAtMessage": "Next available at 11 am, tomorrow",
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "5.0",
+                                      "ratingCount": "4 ratings",
+                                      "ratingCountV2": "4"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                      "bgGradient": {
+                                        "colours": [
+                                          "#C8F9E5",
+                                          "#FFFFFF"
+                                        ],
+                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                      },
+                                      "ratingIconColor": "rating_very_good",
+                                      "ratingTextColor": "rating_very_good",
+                                      "ratingCountTextColor": "rating_very_good",
+                                      "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                      "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                  }
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "67832330",
+                                  "name": "Paneer 65",
+                                  "category": "Chinese Starters",
+                                  "description": "Crispy fried paneer cubes marinated with traditional spices and tossed with chillies and curry leaves.",
+                                  "isVeg": 1,
+                                  "price": 20000,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "nextAvailableAtMessage": "Next available at 11 am, tomorrow",
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "3.5",
+                                      "ratingCount": "7 ratings",
+                                      "ratingCountV2": "7"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                      "bgGradient": {
+                                        "colours": [
+                                          "#D9EFEC",
+                                          "#FFFFFF"
+                                        ],
+                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                      },
+                                      "ratingIconColor": "rating_medium",
+                                      "ratingTextColor": "rating_medium",
+                                      "ratingCountTextColor": "rating_medium",
+                                      "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                      "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                  }
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            },
+                            {
+                              "card": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                "info": {
+                                  "id": "67832334",
+                                  "name": "Paneer Chilli",
+                                  "category": "Chinese Starters",
+                                  "isVeg": 1,
+                                  "price": 20000,
+                                  "variants": {
+
+                                  },
+                                  "variantsV2": {
+
+                                  },
+                                  "nextAvailableAtMessage": "Next available at 11 am, tomorrow",
+                                  "itemAttribute": {
+                                    "vegClassifier": "VEG"
+                                  },
+                                  "ribbon": {
+
+                                  },
+                                  "type": "ITEM",
+                                  "itemBadge": {
+
+                                  },
+                                  "badgesV2": {
+
+                                  },
+                                  "ratings": {
+                                    "aggregatedRating": {
+                                      "rating": "3.6",
+                                      "ratingCount": "9 ratings",
+                                      "ratingCountV2": "9"
+                                    },
+                                    "ratingsPresentationConfig": {
+                                      "bgGradient": {
+                                        "colours": [
+                                          "#D9EFEC",
+                                          "#FFFFFF"
+                                        ],
+                                        "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                      },
+                                      "ratingIconColor": "rating_medium",
+                                      "ratingTextColor": "rating_medium",
+                                      "ratingCountTextColor": "rating_medium",
+                                      "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                      "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                    }
+                                  }
+                                },
+                                "analytics": {
+
+                                },
+                                "hideRestaurantDetails": true
+                              }
+                            }
+                          ],
+                          "subtitleSuffix": {
+
+                          },
+                          "categoryId": "13952636"
+                        }
+                      ],
+                      "image": "yrihvctlrekr6njztlus",
+                      "categoryId": "13952619"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Seafood Starters",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832412",
+                              "name": "Apollo Fish",
+                              "category": "Seafood Starters",
+                              "description": "Boneless fish pieces fried until crispy and then tossed in a delectable sauce made with yoghurt, curry leaves, and green chilies.",
+                              "imageId": "squtvlw96sxv13xnffhn",
+                              "price": 26000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "nextAvailableAtMessage": "Next available at 11 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.8",
+                                  "ratingCount": "551 ratings",
+                                  "ratingCountV2": "551"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#D9EFEC",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_medium",
+                                  "ratingTextColor": "rating_medium",
+                                  "ratingCountTextColor": "rating_medium",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832414",
+                              "name": "Ginger Fish",
+                              "category": "Seafood Starters",
+                              "price": 26000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "nextAvailableAtMessage": "Next available at 11 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "2.7",
+                                  "ratingCount": "3 ratings",
+                                  "ratingCountV2": "3"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#FFF0CD",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_low",
+                                  "ratingTextColor": "rating_low",
+                                  "ratingCountTextColor": "rating_low",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832416",
+                              "name": "Fish Manchuria",
+                              "category": "Seafood Starters",
+                              "price": 26000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "nextAvailableAtMessage": "Next available at 11 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "2.8",
+                                  "ratingCount": "4 ratings",
+                                  "ratingCountV2": "4"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#FFF0CD",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_low",
+                                  "ratingTextColor": "rating_low",
+                                  "ratingCountTextColor": "rating_low",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832418",
+                              "name": "Chilli Fish",
+                              "category": "Seafood Starters",
+                              "price": 26000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "nextAvailableAtMessage": "Next available at 11 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.9",
+                                  "ratingCount": "58 ratings",
+                                  "ratingCountV2": "58"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#D9EFEC",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_medium",
+                                  "ratingTextColor": "rating_medium",
+                                  "ratingCountTextColor": "rating_medium",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832420",
+                              "name": "Loose Prawns",
+                              "category": "Seafood Starters",
+                              "description": "Prawns with minimum coating nearly dry snacks.",
+                              "imageId": "m2pk9gygyqqariiiq830",
+                              "price": 26000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "nextAvailableAtMessage": "Next available at 11 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.9",
+                                  "ratingCount": "37 ratings",
+                                  "ratingCountV2": "37"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#D9EFEC",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_medium",
+                                  "ratingTextColor": "rating_medium",
+                                  "ratingCountTextColor": "rating_medium",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832422",
+                              "name": "Chilli Prawns",
+                              "category": "Seafood Starters",
+                              "description": "Chilli garlic tossed prawns, shanghai style.",
+                              "price": 26000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "nextAvailableAtMessage": "Next available at 11 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "2.4",
+                                  "ratingCount": "10 ratings",
+                                  "ratingCountV2": "10"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#FFF0CD",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_low",
+                                  "ratingTextColor": "rating_low",
+                                  "ratingCountTextColor": "rating_low",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "67832424",
+                              "name": "Saute Prawns",
+                              "category": "Seafood Starters",
+                              "imageId": "adx3wm4zrwyipcgvtrah",
+                              "price": 25000,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "nextAvailableAtMessage": "Next available at 11 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ],
+                      "subtitleSuffix": {
+
+                      },
+                      "image": "squtvlw96sxv13xnffhn",
+                      "categoryId": "13952621"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantLicenseInfo",
+                      "type": "FSSAI",
+                      "imageId": "fssai_final_edss9i",
+                      "text": [
+                        "License No. 13621011000452"
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                      "name": "Lucky Restaurant",
+                      "area": "Banjara Hills",
+                      "completeAddress": "Dana Chambers, Saifabad Rd, Sham Nagar Colony, Chintal, Hyderabad, Telangana 500004"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "firstOffsetRequest": true,
+    "isQCLink": false
+  },
+  "tid": "fabe94b4-9143-4c7c-a697-b562682050c8",
+  "sid": "l7uc8f2d-547f-481b-8c85-c1fb41fd81dc",
+  "deviceId": "5d7c46d5-985e-4cb3-2ad6-53bab38fc20e",
+  "csrfToken": "G0uGKz69imXt-KtoZp9HpcVO54N0ZFOY3rKDU0Q0"
+}

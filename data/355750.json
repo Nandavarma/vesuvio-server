@@ -1,0 +1,1392 @@
+{
+  "statusCode": 0,
+  "data": {
+    "statusMessage": "done successfully",
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.TextBoxV2",
+            "text": "Grameen Kulfi",
+            "headerStyling": {
+              "textColor": "text_Highest_Emphasis",
+              "textVariant": "header_H3_Black"
+            }
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.RestaurantBlTab",
+            "tabs": [
+              {
+                "id": "Order Online",
+                "title": "Order Online"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "355750",
+              "name": "Grameen Kulfi",
+              "city": "Hyderabad",
+              "slugs": {
+                "restaurant": "grameen-kulfi-hakeempet-tolichowki",
+                "city": "hyderabad"
+              },
+              "uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+              "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/5/16/9b5ebc8c-dcfc-4c15-bd0c-c4e98b443c8a_355750.jpg",
+              "locality": "Hakeempet",
+              "areaName": "Toli Chowki",
+              "costForTwo": "12000",
+              "costForTwoMessage": "₹120 for two",
+              "cuisines": [
+                "Ice Cream",
+                "Desserts"
+              ],
+              "avgRating": 4.5,
+              "veg": true,
+              "feeDetails": {
+                "restaurantId": "355750",
+                "fees": [
+                  {
+
+                  }
+                ]
+              },
+              "parentId": "12175",
+              "avgRatingString": "4.5",
+              "totalRatingsString": "734 ratings",
+              "sla": {
+                "restaurantId": "355750",
+                "deliveryTime": 47,
+                "minDeliveryTime": 45,
+                "maxDeliveryTime": 50,
+                "lastMileTravel": 8.4,
+                "serviceability": "SERVICEABLE",
+                "stressFactor": 1,
+                "rainMode": "RAIN_MODE_NONE",
+                "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+                "zoneId": 153,
+                "slaString": "45-50 MINS",
+                "lastMileTravelString": "8.4 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "nextCloseTime": "2025-06-17 23:59:00",
+                "visibility": true,
+                "opened": true,
+                "restaurantClosedMeta": {
+
+                }
+              },
+              "aggregatedDiscountInfo": {
+                "header": "65% off",
+                "shortDescriptionList": [
+                  {
+                    "meta": "65% off | Use MOMENTS",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "FLAT125 off | Use FLATDEAL",
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "descriptionList": [
+                  {
+                    "meta": "65% off | Use MOMENTS",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "FLAT125 off | Use FLATDEAL",
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "visible": true
+              },
+              "badges": {
+
+              },
+              "slugString": "grameen-kulfi-hakeempet-tolichowki",
+              "multiOutlet": true,
+              "isOpen": true,
+              "labels": [
+                {
+                  "title": "Timings",
+                  "message": "null"
+                },
+                {
+                  "title": "Address",
+                  "message": "s,8-1-399/A/1B/C/D Shop No 121,Al-Noor Al Noor Shopping Mall, Hakimpet, Hyderabad, Telangana-500008"
+                },
+                {
+                  "title": "Cuisines",
+                  "message": "Ice Cream,Desserts"
+                }
+              ],
+              "totalRatings": 734,
+              "aggregatedDiscountInfoV2": {
+                "header": "65% off",
+                "shortDescriptionList": [
+                  {
+                    "meta": "65% off | Use MOMENTS",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "FLAT125 off | Use FLATDEAL",
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "descriptionList": [
+                  {
+                    "meta": "65% off | Use MOMENTS",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "FLAT125 off | Use FLATDEAL",
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "couponDetailsCta": "View coupon details"
+              },
+              "type": "F",
+              "nudgeBanners": [
+                {
+                  "minValue": 125,
+                  "maxValue": 179,
+                  "priority": 1,
+                  "couponCode": "MOMENTS",
+                  "discountInfo": {
+                    "discountType": "Percentage",
+                    "value": 65
+                  },
+                  "lockedMessage": "Add items worth ₹\u003Camount\u003E to save upto ₹125 | Code MOMENTS",
+                  "unlockedMessage": "MOMENTS Coupon Unlocked! Use it to save upto ₹125",
+                  "logoCtx": {
+
+                  }
+                },
+                {
+                  "minValue": 1400,
+                  "maxValue": 2000,
+                  "priority": 3,
+                  "couponCode": "XTRAPARTY",
+                  "discountInfo": {
+                    "discountType": "Percentage",
+                    "value": 20
+                  },
+                  "lockedMessage": "Add items worth ₹\u003Camount\u003E to unlock flat 20% off | Code XTRAPARTY",
+                  "unlockedMessage": "XTRAPARTY Coupon Unlocked! Use it to save flat 20% off",
+                  "logoCtx": {
+
+                  }
+                }
+              ],
+              "headerBanner": {
+                "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/355750"
+              },
+              "generalPurposeInfoListV2": [
+                {
+                  "cta": {
+                    "info": {
+                      "recordings": {
+
+                      }
+                    },
+                    "linkCta": {
+
+                    }
+                  }
+                }
+              ],
+              "ratingSlab": "RATING_SLAB_5",
+              "orderabilityCommunication": {
+                "title": {
+
+                },
+                "subTitle": {
+
+                },
+                "message": {
+
+                },
+                "customIcon": {
+
+                },
+                "commsStyling": {
+
+                }
+              },
+              "hasBestsellerItems": true,
+              "nearestOutletNudge": {
+                "nearestOutletInfo": {
+                  "siblingOutlet": {
+                    "id": "355747",
+                    "city": "0",
+                    "slugs": {
+
+                    },
+                    "areaName": "Narayanguda",
+                    "costForTwo": "0",
+                    "feeDetails": {
+
+                    },
+                    "sla": {
+                      "deliveryTime": 17,
+                      "lastMileTravel": 2.2,
+                      "slaString": "17 MINS",
+                      "lastMileTravelString": "2.2 km",
+                      "iconType": "ICON_TYPE_EMPTY"
+                    },
+                    "availability": {
+                      "restaurantClosedMeta": {
+
+                      }
+                    },
+                    "aggregatedDiscountInfo": {
+                      "visible": true
+                    },
+                    "badges": {
+
+                    },
+                    "aggregatedDiscountInfoV2": {
+                      "visible": true
+                    },
+                    "availabilityServiceabilityMessage": "Temporarily closed for delivery",
+                    "cartOrderabilityNudgeBanner": {
+                      "parameters": {
+
+                      },
+                      "presentation": {
+
+                      }
+                    },
+                    "featuredSectionInfo": {
+
+                    }
+                  }
+                },
+                "nearestOutletComms": {
+                  "title": {
+                    "text": "Get your order 30 min faster"
+                  },
+                  "subTitle": {
+                    "text": "Switch to the faster outlet"
+                  }
+                }
+              },
+              "cartOrderabilityNudgeBanner": {
+                "parameters": {
+
+                },
+                "presentation": {
+
+                }
+              },
+              "latLong": "17.40233878,78.41725239",
+              "backgroundImageOverlayInfo": {
+
+              },
+              "featuredSectionInfo": {
+
+              }
+            },
+            "analytics": {
+
+            }
+          },
+          "relevance": {
+            "type": "RELEVANCE_TYPE_CHECK_ORDERABILITY_ON_ITEM_ADD",
+            "sectionId": "POP_UP_CROUTON_MENU"
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+            "layout": {
+              "rows": 1,
+              "columns": 5,
+              "horizontalScrollEnabled": true,
+              "itemSpacing": 12,
+              "lineSpacing": 10,
+              "widgetPadding": {
+
+              },
+              "containerStyle": {
+                "containerPadding": {
+                  "left": 10,
+                  "right": 10,
+                  "bottom": 16
+                }
+              },
+              "scrollBar": {
+
+              }
+            },
+            "id": "offerCollectionWidget_UX4",
+            "gridElements": {
+              "infoWithStyle": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.OfferInfoWithStyle",
+                "offers": [
+                  {
+                    "info": {
+                      "header": "65% OFF UPTO ₹125",
+                      "offerTag": "DEFAULT",
+                      "offerTagColor": "#E46D47",
+                      "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2025/5/7/a0c7cefd-628d-4fb3-a708-28aaf5a6e024_65percentageMoments.avif",
+                      "offerIds": [
+                        "6fb74420-3120-4cdf-807e-b9dfd6050559"
+                      ],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE MOMENTS",
+                      "description": "ABOVE ₹179",
+                      "offerType": "offers",
+                      "restId": "355750",
+                      "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2025/5/7/a0c7cefd-628d-4fb3-a708-28aaf5a6e024_65percentageMoments.avif",
+                      "descriptionTextColor": "#7302060C",
+                      "primaryDescription": "LIMITED COUPONS"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "FLAT ₹125 OFF",
+                      "offerTag": "FLAT DEAL",
+                      "offerTagColor": "#E46D47",
+                      "offerIds": [
+                        "5c2daeeb-6ec6-4113-8d67-d0fb3a811561"
+                      ],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE FLATDEAL",
+                      "description": "ABOVE ₹399",
+                      "offerType": "offers",
+                      "restId": "355750",
+                      "offerLogo": "offers/generic",
+                      "descriptionTextColor": "#7302060C",
+                      "primaryDescription": "USE FLATDEAL"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "FLAT 20% OFF",
+                      "offerTag": "FLAT DEAL",
+                      "offerTagColor": "#E46D47",
+                      "offerIds": [
+                        "1216f334-ab08-40b9-aee9-ce6255b82524"
+                      ],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE XTRAPARTY",
+                      "description": "ABOVE ₹2000",
+                      "offerType": "offers",
+                      "restId": "355750",
+                      "offerLogo": "offers/generic",
+                      "descriptionTextColor": "#7302060C",
+                      "primaryDescription": "USE XTRAPARTY"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "20% OFF UPTO ₹125",
+                      "offerTagColor": "#E46D47",
+                      "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2025/5/27/47401195-2e95-4f53-bb7c-367fa0316dc7_AMEXMenuLogo.png",
+                      "offerIds": [
+                        "074600c5-3563-4463-ab24-aa22c3ea5a8d"
+                      ],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE AMEXCORP",
+                      "description": "ABOVE ₹499",
+                      "offerType": "offers",
+                      "restId": "355750",
+                      "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2025/5/27/47401195-2e95-4f53-bb7c-367fa0316dc7_AMEXMenuLogo.png",
+                      "descriptionTextColor": "#7302060C",
+                      "primaryDescription": "USE AMEXCORP"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "FLAT ₹30 OFF",
+                      "offerTagColor": "#E46D47",
+                      "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2025/6/2/cbcaf732-4dd1-40d7-a756-e78def3542f1_OneCardMenuVisibilityNewLogo.png",
+                      "offerIds": [
+                        "ad7689f2-18cb-455e-8595-90af279f4d2a"
+                      ],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE ONECARD",
+                      "description": "ABOVE ₹299",
+                      "offerType": "offers",
+                      "restId": "355750",
+                      "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2025/6/2/cbcaf732-4dd1-40d7-a756-e78def3542f1_OneCardMenuVisibilityNewLogo.png",
+                      "descriptionTextColor": "#7302060C",
+                      "primaryDescription": "USE ONECARD"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  }
+                ],
+                "habitMilestoneInfo": {
+                  "callout": {
+
+                  }
+                },
+                "loyaltyDiscoverPresentationInfo": {
+                  "logoCtx": {
+
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuVegFilterAndBadge",
+                      "isPureVeg": true,
+                      "badges": {
+
+                      },
+                      "vegOnlyDetails": {
+                        "imageId": "AutoVegOnly_qkjowj",
+                        "title": "Showing only vegetarian options.",
+                        "description": "Tap on the VEG ONLY button to turn off the setting"
+                      },
+                      "topRatedFilter": {
+                        "attributes": {
+                          "displayText": "Ratings 4.0+"
+                        }
+                      },
+                      "kidsCategoryFilter": {
+                        "attributes": {
+                          "displayText": "Kids Favourites",
+                          "tooltip": {
+                            "enabled": true,
+                            "displayText": "Kids Favourites Filter applied. Remove this filter to see the full Menu."
+                          }
+                        }
+                      },
+                      "vegFilter": {
+                        "attributes": {
+                          "displayText": "VEG"
+                        }
+                      },
+                      "nonvegFilter": {
+                        "attributes": {
+                          "displayText": "NONVEG"
+                        }
+                      }
+                    },
+                    "relevance": {
+                      "type": "RELEVANCE_TYPE_ON_MENU_FILTER_TOGGLED",
+                      "sectionId": "MENU_FILTER_TOGGLE"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "No Added Sugar Kulfi",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "153265002",
+                              "name": "No Added Sugar Kesar Pista Stick Kulfi 70ml",
+                              "category": "No Added Sugar Kulfi",
+                              "description": "Revisit childhood with this rich kulfi made with 100% pure milk rabdi slow-churned for hours, loaded with crunchy pista & bits of kesar! now enjoy with no added sugar!",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/8/5d1ba354-53df-422b-8ff2-69c40627fe7e_e409430a-ee4e-400c-b52c-1adcde4f64ea.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 7627,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "5.0",
+                                  "ratingCount": "4 ratings",
+                                  "ratingCountV2": "4"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "153265005",
+                              "name": "No Added Sugar Desi Malai Matka Kulfi (Pack Of 2)",
+                              "category": "No Added Sugar Kulfi",
+                              "description": "Our pack of 2 kulfis, served in matkas, re-create the yester-years together. Enjoy these desi malai matkas made with special rabdi slow-churned for hours. Now enjoy with no added sugar!",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/11/8/15eadc56-b2de-4902-be9a-554ac30729e8_d527096d-dee8-42e3-83ae-3a551df3bd4f.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 16102,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "155082905",
+                              "name": "No Added Sugar Dry Fruit Matka Kulfi (Pack Of 2)",
+                              "category": "No Added Sugar Kulfi",
+                              "description": "Packed with nutty dry fruits, this matka kulfi comes with no added sugar, making it indeed delicious. ",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/8/461c4f1f-23e1-4883-a4e8-01182aae01ac_c8d7b8f7-346b-4dc7-b83d-faed42068007.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 17797,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.7",
+                                  "ratingCount": "3 ratings",
+                                  "ratingCountV2": "3"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ],
+                      "subtitleSuffix": {
+
+                      },
+                      "image": "FOOD_CATALOG/IMAGES/CMS/2025/5/8/5d1ba354-53df-422b-8ff2-69c40627fe7e_e409430a-ee4e-400c-b52c-1adcde4f64ea.jpg",
+                      "categoryId": "59036228"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Stick Kulfi",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "66332519",
+                              "name": "Desi Malai Stick Kulfi",
+                              "category": "Stick Kulfi",
+                              "description": "A quintessential desi favourite, made with 100% pure milk rabdi slow-churned for hours. Does not contain any colours or preservatives. Serving; 1 serve, serving size :72/70,energy(kcal) :155,carbohydrate(gm):18. 3,protein(gm): 4. 5,dietary fiber(gm) : 0,fat(gm) : 7. 1,allergen?:contains milk. May contains traces of tree nuts. ",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/8/f588f22a-fbfc-4639-8953-e0d0ad55ea8b_5eba9c38-059e-44af-b797-511ace9fbfa3.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 6356,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCount": "231 ratings",
+                                  "ratingCountV2": "231"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "66332521",
+                              "name": "Kesar Pista Stick Kulfi",
+                              "category": "Stick Kulfi",
+                              "description": "Revisit childhood with this rich kulfi made with 100% pure milk rabdi slow-churned for hours, loaded with crunchy pista & bits of kesar! serving; 1 serve, serving size :72/70,energy(kcal) :161,carbohydrate(gm):18,protein(gm): 5,dietary fiber(gm) : 0. 3,fat(gm) : 7. 8,allergen?:contains milk and tree nuts. ",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/8/2c5a7203-bc14-4281-b1de-8de56786a233_2015e917-17fe-4342-9a34-27aa8a47113c.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 6356,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCount": "178 ratings",
+                                  "ratingCountV2": "178"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "66332517",
+                              "name": "Calcutta Paan Stick Kulfi",
+                              "category": "Stick Kulfi",
+                              "description": "Refreshingly famous at desi post meal sessions, meetha paan flavours with saunf & tutti-frutti are folded into 100% pure milk rabdi slow-churned for hours. Serving; 1 serve, serving size :72/70,energy(kcal) :162,carbohydrate(gm):20. 9,protein(gm): 4. 4,dietary fiber(gm) : 0. 2,fat(gm) : 6. 8,allergen?:contains milk. May contains traces of tree nuts. ",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/8/133bbe89-6b59-4554-9ad0-860b03812cd6_ccbee95b-e97c-4f38-b76e-0424c3b12834.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 6356,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCount": "78 ratings",
+                                  "ratingCountV2": "78"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "66332522",
+                              "name": "Shahi Gulkand Stick Kulfi",
+                              "category": "Stick Kulfi",
+                              "description": "This desi kulfi is folded with aromatic gulkand into 100% pure milk rabdi slow-churned for hours. Serving; 1 serve, serving size :72/70,energy(kcal) :140,carbohydrate(gm):18. 5,protein(gm): 4. 8,dietary fiber(gm) : 0. 4,fat(gm) : 5. 3,allergen?:contains milk. May contains traces of tree nuts. ",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/8/55c273ec-eeaa-439b-bf69-e3febd21c09a_444ce589-6602-4f30-a672-dd0ccff5f76f.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 6356,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.6",
+                                  "ratingCount": "92 ratings",
+                                  "ratingCountV2": "92"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "66332514",
+                              "name": "Alphonso Mango Stick Kulfi",
+                              "category": "Stick Kulfi",
+                              "description": "Enjoy summer-y kulfi made with the king of fruits -- alphonso mango pulp is combines with rich milk rabdi, slow-churned for hours. Serving; 1 serve, serving size :72/70,energy(kcal) :148,carbohydrate(gm):18. 5,protein(gm): 3. 9,dietary fiber(gm) : 0. 3,fat(gm) : 6. 5,allergen?:contains milk. May contains traces of tree nuts. ",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/8/441095df-fc6b-47f7-bbc1-669d26721bec_d2037eb5-549d-4c3a-b576-8fd42b06f659.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 6356,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5",
+                                  "ratingCount": "163 ratings",
+                                  "ratingCountV2": "163"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "66332520",
+                              "name": "Gud Badaam Stick Kulfi",
+                              "category": "Stick Kulfi",
+                              "description": "A very unique combination of two contrasting tastes ? the sweet jiggery and the crunchy almond ? served in the soothing matka. Serving; 1 serve, serving size :72/70,energy(kcal) :161,carbohydrate(gm):17. 6,protein(gm): 4. 9,dietary fiber(gm) : 0. 3,fat(gm) : 7. 9,allergen?: contains milk and tree nuts. ",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/8/afbfed0e-e623-4bee-bac1-31510055b264_354f9521-2dd4-43d0-aae8-365b2be1dea6.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 6356,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "54 ratings",
+                                  "ratingCountV2": "54"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ],
+                      "subtitleSuffix": {
+
+                      },
+                      "image": "FOOD_CATALOG/IMAGES/CMS/2025/5/8/f588f22a-fbfc-4639-8953-e0d0ad55ea8b_5eba9c38-059e-44af-b797-511ace9fbfa3.jpg",
+                      "categoryId": "13496245"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Matka Kulfi",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "66332531",
+                              "name": "Dry Fruit Matka Kulfi (Pack Of 2)",
+                              "category": "Matka Kulfi",
+                              "description": "Our pack of 2 kulfis, served in matka pots, re-create the yester-years together. Enjoy these childhood desi blasts from the past, with chunky pista & almond folded into 100% pure milk rabdi. ",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/8/d1b14dee-075b-4c94-a4a2-5487c49d90d4_caac5d2e-3ce1-4502-937b-ae344033ecf7.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 16949,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5",
+                                  "ratingCount": "74 ratings",
+                                  "ratingCountV2": "74"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "87902624",
+                              "name": "Kesar Pista Matka Kulfi (Pack Of 2)",
+                              "category": "Matka Kulfi",
+                              "description": "The very irresistible combination of saffron and green, combining two very complimenting flavours, for a uniquely-flavourful experience. Serving; 2 serves, serving size :93/100,energy(kcal) :218,carbohydrate(gm):24. 6,protein(gm): 6. 5,dietary fiber(gm) : 0. 4,fat(gm) : 10. 4,allergen??:contains milk. May contains traces of tree nuts. ",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/8/66da4321-75b3-4ba4-951a-51a2d0c8cffb_4741c309-29d3-4c76-9168-d4dc5b7c5a5b.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 16949,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.9",
+                                  "ratingCount": "17 ratings",
+                                  "ratingCountV2": "17"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "87902622",
+                              "name": "Gud Badaam Matka Kulfi (Pack Of 2)",
+                              "category": "Matka Kulfi",
+                              "description": "A very unique combination of two contrasting tastes ? the sweet jiggery and the crunchy almond ? served in the soothing matka. Serving; 2 serves, serving size :93/100,energy(kcal) :208,carbohydrate(gm):22. 8,protein(gm): 6. 3,dietary fiber(gm) : 0. 4,fat(gm) : 10. 2,allergen?:contains milk and treenuts. ",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/8/1abb92e7-b52d-4331-9b96-45e22ed77c71_3f3715ec-2d41-4800-b15c-91f226fc158a.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 16949,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "11 ratings",
+                                  "ratingCountV2": "11"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ],
+                      "subtitleSuffix": {
+
+                      },
+                      "image": "FOOD_CATALOG/IMAGES/CMS/2025/5/8/d1b14dee-075b-4c94-a4a2-5487c49d90d4_caac5d2e-3ce1-4502-937b-ae344033ecf7.jpg",
+                      "categoryId": "13496246"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Slice Kulfi",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "96297450",
+                              "name": "Shahi Gulkand Slice Kulfi (Pack Of 3)",
+                              "category": "Slice Kulfi",
+                              "description": "If you?d like to experience the regal side of the good life, the shahi gulkand slice kulfi is an ideal pick that you can simply not afford to miss out on. Serving; 3 serves, serving size :100/90,energy(kcal) :195,carbohydrate(gm):25. 7,protein(gm): 6. 7,dietary fiber(gm) : 0. 5,fat(gm) : 7. 4,allergen?:contains milk. May contains traces of tree nuts. ",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/8/e69e06f0-2a21-484b-b066-44979a27b557_24a1fae5-4abb-4711-8fc2-73cb8530700a.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 18644,
+                              "variants": {
+
+                              },
+                              "variantsV2": {
+
+                              },
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {
+
+                              },
+                              "badgesV2": {
+
+                              },
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.7",
+                                  "ratingCount": "8 ratings",
+                                  "ratingCountV2": "8"
+                                },
+                                "ratingsPresentationConfig": {
+                                  "bgGradient": {
+                                    "colours": [
+                                      "#C8F9E5",
+                                      "#FFFFFF"
+                                    ],
+                                    "gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+                                  },
+                                  "ratingIconColor": "rating_very_good",
+                                  "ratingTextColor": "rating_very_good",
+                                  "ratingCountTextColor": "rating_very_good",
+                                  "ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+                                  "ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+                                }
+                              }
+                            },
+                            "analytics": {
+
+                            },
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ],
+                      "subtitleSuffix": {
+
+                      },
+                      "image": "FOOD_CATALOG/IMAGES/CMS/2025/5/8/e69e06f0-2a21-484b-b066-44979a27b557_24a1fae5-4abb-4711-8fc2-73cb8530700a.jpg",
+                      "categoryId": "13496247"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantLicenseInfo",
+                      "type": "FSSAI",
+                      "imageId": "fssai_final_edss9i",
+                      "text": [
+                        "License No. 13621013001035"
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                      "name": "Grameen Kulfi",
+                      "area": "Toli Chowki",
+                      "completeAddress": "s,8-1-399/A/1B/C/D Shop No 121,Al-Noor Al Noor Shopping Mall, Hakimpet, Hyderabad, Telangana-500008"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "firstOffsetRequest": true,
+    "isQCLink": false
+  },
+  "tid": "fabe94b4-9143-4c7c-a697-b562682050c8",
+  "sid": "l7uc8f2d-547f-481b-8c85-c1fb41fd81dc",
+  "deviceId": "5d7c46d5-985e-4cb3-2ad6-53bab38fc20e",
+  "csrfToken": "OUyuRd1reZgG-xIvax7TYiwlDC61K013Lsr1xiOg"
+}
