@@ -1,39 +1,35 @@
 const restaurants = [
   {
     info: {
-      id: "547809",
-      name: "Theobroma",
+      id: "750389",
+      name: "Daily Kitchen - Everyday Homely Meals",
       cloudinaryImageId:
-        "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/16/2abcb665-bf1f-4444-8d28-e34d2811f6cf_547809.jpg",
-      locality: "Himayath Nagar",
-      areaName: "Himayath Nagar",
-      costForTwo: "₹400 for two",
-      cuisines: ["Desserts"],
-      avgRating: 4.6,
-      parentId: "1040",
-      avgRatingString: "4.6",
-      totalRatingsString: "4.0K+",
+        "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/10/57f8f870-53d9-463d-b33d-ef55eb5f46e2_750389.jpg",
+      locality: "GUMMA KONDA COLONY",
+      areaName: "Attapur",
+      costForTwo: "₹250 for two",
+      cuisines: ["Home Food", "Indian", "North Indian", "Thalis"],
+      avgRating: 4.3,
+      parentId: "444382",
+      avgRatingString: "4.3",
+      totalRatingsString: "421",
       sla: {
-        deliveryTime: 33,
-        lastMileTravel: 8.2,
+        deliveryTime: 25,
+        lastMileTravel: 3,
         serviceability: "SERVICEABLE",
-        slaString: "30-35 mins",
-        lastMileTravelString: "8.2 km",
+        slaString: "20-30 mins",
+        lastMileTravelString: "3.0 km",
         iconType: "ICON_TYPE_EMPTY",
       },
       availability: {
-        nextCloseTime: "2025-06-17 00:30:00",
+        nextCloseTime: "2025-06-17 02:00:00",
         opened: true,
       },
       badges: {
         imageBadges: [
           {
-            imageId: "Rxawards/_CATEGORY-Desserts.png",
+            imageId: "Ratnesh_Badges/Rx_Awards_2025/Newcomers.png",
             description: "Delivery!",
-          },
-          {
-            imageId: "newg.png",
-            description: "Gourmet",
           },
         ],
       },
@@ -46,13 +42,7 @@ const restaurants = [
               {
                 attributes: {
                   description: "Delivery!",
-                  imageId: "Rxawards/_CATEGORY-Desserts.png",
-                },
-              },
-              {
-                attributes: {
-                  description: "Gourmet",
-                  imageId: "newg.png",
+                  imageId: "Ratnesh_Badges/Rx_Awards_2025/Newcomers.png",
                 },
               },
             ],
@@ -62,7 +52,8 @@ const restaurants = [
         },
       },
       aggregatedDiscountInfoV3: {
-        header: "20% OFF",
+        header: "₹150 OFF",
+        subHeader: "ABOVE ₹499",
         discountTag: "FLAT DEAL",
       },
       differentiatedUi: {
@@ -77,11 +68,8 @@ const restaurants = [
       restaurantOfferPresentationInfo: {},
       externalRatings: {
         aggregatedRating: {
-          rating: "3.7",
-          ratingCount: "146",
+          rating: "--",
         },
-        source: "GOOGLE",
-        sourceIconImageId: "v1704440323/google_ratings/rating_google_tag",
       },
       ratingsDisplayPreference: "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
     },
@@ -89,7 +77,7 @@ const restaurants = [
       context: "seo-data-4bcfb9e7-d01e-44d2-8cb3-f156474f9b8c",
     },
     cta: {
-      link: "https://www.swiggy.com/city/hyderabad/theobroma-himayath-nagar-rest547809",
+      link: "https://www.swiggy.com/city/hyderabad/daily-kitchen-everyday-homely-meals-gumma-konda-colony-attapur-rest750389",
       type: "WEBLINK",
     },
   },
@@ -981,35 +969,39 @@ const restaurants = [
   },
   {
     info: {
-      id: "750389",
-      name: "Daily Kitchen - Everyday Homely Meals",
+      id: "547809",
+      name: "Theobroma",
       cloudinaryImageId:
-        "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/10/57f8f870-53d9-463d-b33d-ef55eb5f46e2_750389.jpg",
-      locality: "GUMMA KONDA COLONY",
-      areaName: "Attapur",
-      costForTwo: "₹250 for two",
-      cuisines: ["Home Food", "Indian", "North Indian", "Thalis"],
-      avgRating: 4.3,
-      parentId: "444382",
-      avgRatingString: "4.3",
-      totalRatingsString: "421",
+        "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/16/2abcb665-bf1f-4444-8d28-e34d2811f6cf_547809.jpg",
+      locality: "Himayath Nagar",
+      areaName: "Himayath Nagar",
+      costForTwo: "₹400 for two",
+      cuisines: ["Desserts"],
+      avgRating: 4.6,
+      parentId: "1040",
+      avgRatingString: "4.6",
+      totalRatingsString: "4.0K+",
       sla: {
-        deliveryTime: 25,
-        lastMileTravel: 3,
+        deliveryTime: 33,
+        lastMileTravel: 8.2,
         serviceability: "SERVICEABLE",
-        slaString: "20-30 mins",
-        lastMileTravelString: "3.0 km",
+        slaString: "30-35 mins",
+        lastMileTravelString: "8.2 km",
         iconType: "ICON_TYPE_EMPTY",
       },
       availability: {
-        nextCloseTime: "2025-06-17 02:00:00",
+        nextCloseTime: "2025-06-17 00:30:00",
         opened: true,
       },
       badges: {
         imageBadges: [
           {
-            imageId: "Ratnesh_Badges/Rx_Awards_2025/Newcomers.png",
+            imageId: "Rxawards/_CATEGORY-Desserts.png",
             description: "Delivery!",
+          },
+          {
+            imageId: "newg.png",
+            description: "Gourmet",
           },
         ],
       },
@@ -1022,7 +1014,13 @@ const restaurants = [
               {
                 attributes: {
                   description: "Delivery!",
-                  imageId: "Ratnesh_Badges/Rx_Awards_2025/Newcomers.png",
+                  imageId: "Rxawards/_CATEGORY-Desserts.png",
+                },
+              },
+              {
+                attributes: {
+                  description: "Gourmet",
+                  imageId: "newg.png",
                 },
               },
             ],
@@ -1032,8 +1030,7 @@ const restaurants = [
         },
       },
       aggregatedDiscountInfoV3: {
-        header: "₹150 OFF",
-        subHeader: "ABOVE ₹499",
+        header: "20% OFF",
         discountTag: "FLAT DEAL",
       },
       differentiatedUi: {
@@ -1048,8 +1045,11 @@ const restaurants = [
       restaurantOfferPresentationInfo: {},
       externalRatings: {
         aggregatedRating: {
-          rating: "--",
+          rating: "3.7",
+          ratingCount: "146",
         },
+        source: "GOOGLE",
+        sourceIconImageId: "v1704440323/google_ratings/rating_google_tag",
       },
       ratingsDisplayPreference: "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
     },
@@ -1057,10 +1057,11 @@ const restaurants = [
       context: "seo-data-4bcfb9e7-d01e-44d2-8cb3-f156474f9b8c",
     },
     cta: {
-      link: "https://www.swiggy.com/city/hyderabad/daily-kitchen-everyday-homely-meals-gumma-konda-colony-attapur-rest750389",
+      link: "https://www.swiggy.com/city/hyderabad/theobroma-himayath-nagar-rest547809",
       type: "WEBLINK",
     },
   },
+  
   {
     info: {
       id: "34634",
