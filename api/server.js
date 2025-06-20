@@ -5,7 +5,7 @@ const cors = require("cors");
 
 const app = express();
 const PORT = 5000;
-const allowedOrigin = "https://vesuvio-in.vercel.app/";
+const allowedOrigin = "https://vesuvio-in.vercel.app";
 app.use(
   cors({
     origin: allowedOrigin,
