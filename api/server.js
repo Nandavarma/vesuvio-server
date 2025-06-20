@@ -1,9 +1,18 @@
 const express = require("express");
 const fs = require("fs");
 const path = require("path");
+const cors = require("cors");
 
 const app = express();
 const PORT = 5000;
+const allowedOrigin = "https://vesuvio-in.vercel.app/";
+app.use(
+  cors({
+    origin: allowedOrigin,
+    methods: ["GET", "POST", "PUT", "DELETE"],
+    credentials: true,
+  })
+);
 
 app.get("/api/restaurants", (req, res) => {
   const data = require("../data/restaurants/list");
