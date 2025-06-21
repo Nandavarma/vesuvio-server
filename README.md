@@ -8,13 +8,6 @@ The backend is deployed on [Render](https://render.com) and can be accessed here
 
 https://vesuvio-server.onrender.com/api/restaurants
 
-markdown
-Copy
-Edit
-
-✅ **CORS Protected:**  
-Only requests from the official frontend deployed at [https://vesuvio-in.vercel.app](https://vesuvio-in.vercel.app) are allowed.
-
 ## 📁 Project Structure
 ```page
 vesuvio-server/
